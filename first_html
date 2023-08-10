@@ -1,0 +1,31 @@
+HTML>
+    <HEAD>
+        <title>Página Principal</title>
+        <Body>
+            <h1> <strong>Formação HTML Web Developer </strong> </h1>
+            <hr/>
+            <h2><strong>Índice</strong></h2>
+            <ul>
+                <li><a href="#">Entendendo Comunicação Client x Server</a></li>
+                <li><a href="#">O que são Clients</a></li>
+                <li><a href="#">O que são servers</a></li>
+                <li><a href="#">Linguagens de Programação</a></li>
+            </ul>
+            <h2>
+                <strong>Entendendo Comunicação Client x Server</strong>
+            </h2>
+            <h3>O que são clients?</h3>
+               <p>As linguagens client-side são linguagens onde apenas o seu NAVEGADOR vai entender. Quem vai processar essa linguagem não é o servidor, mas o seu browser (Chrome, IE, Firefox, etc...). Significa "lado do cliente", ou seja, aplicações que rodam no computador do usuário sem necessidade de processamento de seu servidor (ou host) para efetuar determinada tarefa.</p>
+            <h3>O que são servers?</h3>
+            <p>As linguagens server-side são linguagens que o SERVIDOR (lado do servidor) entende, ou seja, aplicações que rodam no servidor. Isso quer dizer que você vai escrever um código onde o servidor vai processá-lo e então vai mandar para o seu navegador a resposta.</p>
+           <h2>Linguagens de Programação</h2>
+           <p>Linguagem de programação é uma linguagem escrita e formal que reúne e especifíca um conjunto de instruções com o objetivo de gerar um programa (software)</p>
+           <p>As 5 principais linguagens de programação segundo o <strong><i>Redmonk</i></strong> são:</p>
+           <p><ul>
+            <li>JavaScript</li>
+            <li>Python</li>
+            <li>Java</li>
+            <li>PHP</li>
+            <li>C#</li>
+           </ul></p> 
+            
